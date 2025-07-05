@@ -16,7 +16,7 @@ Enhance the search engine experience by improving subtitle search accuracy using
 
 Open the project notebook in Google Colab and follow the step-by-step instructions.
 
-[Open the Colab Notebook](https://colab.research.google.com/drive/1gEkBOkBgo-nyM-XckFk7KTWRMb7Fq9h1?usp=sharing)
+[Open the Colab Notebook](https://colab.research.google.com/drive/1CUYInxLkvdPgwKdv7H_4ruk05uh3BSfE?usp=sharing)
 
 - A **Cloud GPU** will be assigned to you to run the notebook code for retrieving and processing subtitles.
 
